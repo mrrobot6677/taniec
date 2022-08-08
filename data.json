@@ -26,5 +26,31 @@
       "text": "Festiwal Tańca Współczesnego Kalejdoskop odbywa się w Białymstoku od 2002 roku. Wydarzenie to jest największą i najważniejszą imprezą promującą taniec współczesny w północno-wschodniej Polsce. Festiwal, zgodnie ze swoją nazwą, hołduje zasadzie zmienności i różnorodności. Przygotujcie wygodne buty, a w kalendarzu zarezerwujcie termin 2-5 czerwca!",
       "fullText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
+  ],
+  "quarterly": [
+    {
+      "title": "KULTURA",
+      "text": "Cykl: Ciało na scenie. Czy nagość na „scenie” to wynalazek współczesności? cz.2 – Małgorzata Skusa"
+    },
+    {
+      "title": "HISTORIA",
+      "text": "Utracone dziedzictwo - repertuar Polskiego Baletu Reprezentacyjnego – Ewa Kretkowska"
+    },
+    {
+      "title": "RECENZJA",
+      "text": "Balet „Don Kichot’ pod czeskim nadzorem – Elżbieta Pastecka Maestria duetów – Ewa Kretkowska Wampir w zalotach czyli historia Draculi na nowo odczytana – Elżbieta Pastecka"
+    },
+    {
+      "title": "FELIETON",
+      "text": "Portret kobiety w tańcu towarzyskim – Julia Wójcicka"
+    },
+    {
+      "title": "WYWIAD",
+      "text": "Taniec w Polsce powinien zachować różnorodność – z Karolem Urbańskim, zastępcą dyrektora Narodowego Instytutu Muzyki i Tańca rozmawia Marta Seredyńska. `<br>` Tworzenie więzi – z Lucyną Zwolińską rozmawia  Magdalena Jagiełło-Kmieciak<br> Przyszłość nie jest dziś pewna – z Włodzimierzem Kaczkowskim rozmawia Marta Seredyńska<br>"
+    },
+    {
+      "title": "RELACJA",
+      "text": "Taniec w przestrzeni miejskiej – Festiwal Kalejdoskop 2022 –  Marta Seredyńska"
+    },
   ]
 }
