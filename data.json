@@ -1,4 +1,27 @@
 {
-  "title": "example title",
-  "h1": "Razem tworzymy kulturę taneczną"
+  "title": "Taniec",
+  "h1": "Razem tworzymy kulturę taneczną",
+  "news": [
+    {
+      "title": "NOWY NUMER 2.2022",
+      "image": "/test/taniec2022.jpg",
+      "text": "Zapraszamy do pobrania kolejnego numeru Tańca - 2/2022. Szczegóły w zakładce Kwartalnik. Zapraszamy!"
+    },
+    {
+      "title": "Dodatek - Edukacja taneczna 2021",
+      "image": "/test/edu.png",
+      "text": "Nowa inicjatywa Instytutu Rozwoju Kultury i magazynu Taniec - specjalne wydanie o edukacji tanecznej. Wydany w październiku br. Zapraszamy nauczycieli, instruktorów i animatorów tańca!"
+    },
+    {
+      "title": "NIMIT PATRONEM TAŃCA!",
+      "image": "/test/nimit.png",
+      "text": "Narodowy Instytut Muzyki i Tańca został patronem honorowym tegorocznych wydań Tańca! Dziękujemy."
+    },
+    {
+      "title": "KALEJDOSKOP 2022",
+      "image": "",
+      "text": "Festiwal Tańca Współczesnego Kalejdoskop odbywa się w Białymstoku od 2002 roku. Wydarzenie to jest największą i najważniejszą imprezą promującą taniec współczesny w północno-wschodniej Polsce. Festiwal, zgodnie ze swoją nazwą, hołduje zasadzie zmienności i różnorodności. Przygotujcie wygodne buty, a w kalendarzu zarezerwujcie termin 2-5 czerwca!
+"
+    }
+  ]
 }
