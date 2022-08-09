@@ -4,19 +4,19 @@
   "news": [
     {
       "title": "NOWY NUMER 2.2022",
-      "image": "/test/taniec2022.jpg",
+      "image": "/test/images/taniec2022.jpg",
       "text": "Zapraszamy do pobrania kolejnego numeru Tańca - 2/2022. Szczegóły w zakładce Kwartalnik. Zapraszamy!",
       "fullText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "title": "Dodatek - Edukacja taneczna 2021",
-      "image": "/test/edu.png",
+      "image": "/test/images/edu.png",
       "text": "Nowa inicjatywa Instytutu Rozwoju Kultury i magazynu Taniec - specjalne wydanie o edukacji tanecznej. Wydany w październiku br. Zapraszamy nauczycieli, instruktorów i animatorów tańca!",
       "fullText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "title": "NIMIT PATRONEM TAŃCA!",
-      "image": "/test/nimit.png",
+      "image": "/test/images/nimit.png",
       "text": "Narodowy Instytut Muzyki i Tańca został patronem honorowym tegorocznych wydań Tańca! Dziękujemy.",
       "fullText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
@@ -53,5 +53,27 @@
       "title": "RELACJA",
       "text": "Taniec w przestrzeni miejskiej – Festiwal Kalejdoskop 2022 –  Marta Seredyńska"
     }
-   ]
+   ],
+  "archives": [
+    {
+      "image": "/test/images/taniec.2017.1-2.okladka",
+      "number: "1-2.2017"
+    },
+    {
+      "image": "/test/images/taniec.2017.3.okladka"
+      "number: "3.2017"
+    },
+    {
+      "image": "/test/images/taniec.2017.4.okladka",
+      "number: "4.2017"
+    },
+    {
+      "image": "/test/images/taniec.2018.1.okladka",
+      "number: "1.2018"
+    },
+    {
+      "image": "/test/images/taniec.2018.2.okladka",
+      "number: "2.2018"
+    },
+  ]
 }
