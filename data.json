@@ -58,27 +58,157 @@
     {
       "image": "/test/images/taniec.2017.1-2.okladka.jpg",
       "number": "1-2.2017",
-      "pdf": "/test/pdf/taniec.2017.1-2.pdf"
+      "pdf": "/test/pdf/taniec.2017.1-2.pdf",
+      "contents": [
+        {
+          "title": "KULTURA",
+          "text": "Cykl: Ciało na scenie. Czy nagość na „scenie” to wynalazek współczesności? cz.2 – Małgorzata Skusa"
+        },
+        {
+          "title": "HISTORIA",
+          "text": "Utracone dziedzictwo - repertuar Polskiego Baletu Reprezentacyjnego – Ewa Kretkowska"
+        },
+        {
+          "title": "RECENZJA",
+          "text": "Balet „Don Kichot’ pod czeskim nadzorem – Elżbieta Pastecka Maestria duetów – Ewa Kretkowska Wampir w zalotach czyli historia Draculi na nowo odczytana – Elżbieta Pastecka"
+        },
+        {
+          "title": "FELIETON",
+          "text": "Portret kobiety w tańcu towarzyskim – Julia Wójcicka"
+        },
+        {
+          "title": "WYWIAD",
+          "text": "Taniec w Polsce powinien zachować różnorodność – z Karolem Urbańskim, zastępcą dyrektora Narodowego Instytutu Muzyki i Tańca rozmawia Marta Seredyńska.\r Tworzenie więzi – z Lucyną Zwolińską rozmawia  Magdalena Jagiełło-Kmieciak<br> Przyszłość nie jest dziś pewna – z Włodzimierzem Kaczkowskim rozmawia Marta Seredyńska<br>"
+        },
+        {
+          "title": "RELACJA",
+          "text": "Taniec w przestrzeni miejskiej – Festiwal Kalejdoskop 2022 –  Marta Seredyńska"
+        }
+      ]
     },
     {
       "image": "/test/images/taniec.2017.3.okladka.jpg",
       "number": "3.2017",
-      "pdf": "/test/pdf/taniec.2017.3.pdf"
+      "pdf": "/test/pdf/taniec.2017.3.pdf",
+      "contents": [
+        {
+          "title": "KULTURA",
+          "text": "Cykl: Ciało na scenie. Czy nagość na „scenie” to wynalazek współczesności? cz.2 – Małgorzata Skusa"
+        },
+        {
+          "title": "HISTORIA",
+          "text": "Utracone dziedzictwo - repertuar Polskiego Baletu Reprezentacyjnego – Ewa Kretkowska"
+        },
+        {
+          "title": "RECENZJA",
+          "text": "Balet „Don Kichot’ pod czeskim nadzorem – Elżbieta Pastecka Maestria duetów – Ewa Kretkowska Wampir w zalotach czyli historia Draculi na nowo odczytana – Elżbieta Pastecka"
+        },
+        {
+          "title": "FELIETON",
+          "text": "Portret kobiety w tańcu towarzyskim – Julia Wójcicka"
+        },
+        {
+          "title": "WYWIAD",
+          "text": "Taniec w Polsce powinien zachować różnorodność – z Karolem Urbańskim, zastępcą dyrektora Narodowego Instytutu Muzyki i Tańca rozmawia Marta Seredyńska.\r Tworzenie więzi – z Lucyną Zwolińską rozmawia  Magdalena Jagiełło-Kmieciak<br> Przyszłość nie jest dziś pewna – z Włodzimierzem Kaczkowskim rozmawia Marta Seredyńska<br>"
+        },
+        {
+          "title": "RELACJA",
+          "text": "Taniec w przestrzeni miejskiej – Festiwal Kalejdoskop 2022 –  Marta Seredyńska"
+        }
+      ]
     },
     {
       "image": "/test/images/taniec.2017.4.okladka.jpg",
       "number": "4.2017",
-      "pdf": "/test/pdf/taniec.2017.4.pdf"
+      "pdf": "/test/pdf/taniec.2017.4.pdf",
+      "contents": [
+        {
+          "title": "KULTURA",
+          "text": "Cykl: Ciało na scenie. Czy nagość na „scenie” to wynalazek współczesności? cz.2 – Małgorzata Skusa"
+        },
+        {
+          "title": "HISTORIA",
+          "text": "Utracone dziedzictwo - repertuar Polskiego Baletu Reprezentacyjnego – Ewa Kretkowska"
+        },
+        {
+          "title": "RECENZJA",
+          "text": "Balet „Don Kichot’ pod czeskim nadzorem – Elżbieta Pastecka Maestria duetów – Ewa Kretkowska Wampir w zalotach czyli historia Draculi na nowo odczytana – Elżbieta Pastecka"
+        },
+        {
+          "title": "FELIETON",
+          "text": "Portret kobiety w tańcu towarzyskim – Julia Wójcicka"
+        },
+        {
+          "title": "WYWIAD",
+          "text": "Taniec w Polsce powinien zachować różnorodność – z Karolem Urbańskim, zastępcą dyrektora Narodowego Instytutu Muzyki i Tańca rozmawia Marta Seredyńska.\r Tworzenie więzi – z Lucyną Zwolińską rozmawia  Magdalena Jagiełło-Kmieciak<br> Przyszłość nie jest dziś pewna – z Włodzimierzem Kaczkowskim rozmawia Marta Seredyńska<br>"
+        },
+        {
+          "title": "RELACJA",
+          "text": "Taniec w przestrzeni miejskiej – Festiwal Kalejdoskop 2022 –  Marta Seredyńska"
+        }
+      ]
     },
     {
       "image": "/test/images/taniec.2018.1.okladka.jpg",
       "number": "1.2018",
-      "pdf": "/test/pdf/taniec.2018.1.pdf"
+      "pdf": "/test/pdf/taniec.2018.1.pdf",
+      "contents": [
+        {
+          "title": "KULTURA",
+          "text": "Cykl: Ciało na scenie. Czy nagość na „scenie” to wynalazek współczesności? cz.2 – Małgorzata Skusa"
+        },
+        {
+          "title": "HISTORIA",
+          "text": "Utracone dziedzictwo - repertuar Polskiego Baletu Reprezentacyjnego – Ewa Kretkowska"
+        },
+        {
+          "title": "RECENZJA",
+          "text": "Balet „Don Kichot’ pod czeskim nadzorem – Elżbieta Pastecka Maestria duetów – Ewa Kretkowska Wampir w zalotach czyli historia Draculi na nowo odczytana – Elżbieta Pastecka"
+        },
+        {
+          "title": "FELIETON",
+          "text": "Portret kobiety w tańcu towarzyskim – Julia Wójcicka"
+        },
+        {
+          "title": "WYWIAD",
+          "text": "Taniec w Polsce powinien zachować różnorodność – z Karolem Urbańskim, zastępcą dyrektora Narodowego Instytutu Muzyki i Tańca rozmawia Marta Seredyńska.\r Tworzenie więzi – z Lucyną Zwolińską rozmawia  Magdalena Jagiełło-Kmieciak<br> Przyszłość nie jest dziś pewna – z Włodzimierzem Kaczkowskim rozmawia Marta Seredyńska<br>"
+        },
+        {
+          "title": "RELACJA",
+          "text": "Taniec w przestrzeni miejskiej – Festiwal Kalejdoskop 2022 –  Marta Seredyńska"
+        }
+      ]
     },
     {
       "image": "/test/images/taniec.2018.2.okladka.jpg",
       "number": "2.2018",
-      "pdf": "/test/pdf/taniec.2018.2.pdf"
+      "pdf": "/test/pdf/taniec.2018.2.pdf",
+      "contents": [
+        {
+          "title": "KULTURA",
+          "text": "Cykl: Ciało na scenie. Czy nagość na „scenie” to wynalazek współczesności? cz.2 – Małgorzata Skusa"
+        },
+        {
+          "title": "HISTORIA",
+          "text": "Utracone dziedzictwo - repertuar Polskiego Baletu Reprezentacyjnego – Ewa Kretkowska"
+        },
+        {
+          "title": "RECENZJA",
+          "text": "Balet „Don Kichot’ pod czeskim nadzorem – Elżbieta Pastecka Maestria duetów – Ewa Kretkowska Wampir w zalotach czyli historia Draculi na nowo odczytana – Elżbieta Pastecka"
+        },
+        {
+          "title": "FELIETON",
+          "text": "Portret kobiety w tańcu towarzyskim – Julia Wójcicka"
+        },
+        {
+          "title": "WYWIAD",
+          "text": "Taniec w Polsce powinien zachować różnorodność – z Karolem Urbańskim, zastępcą dyrektora Narodowego Instytutu Muzyki i Tańca rozmawia Marta Seredyńska.\r Tworzenie więzi – z Lucyną Zwolińską rozmawia  Magdalena Jagiełło-Kmieciak<br> Przyszłość nie jest dziś pewna – z Włodzimierzem Kaczkowskim rozmawia Marta Seredyńska<br>"
+        },
+        {
+          "title": "RELACJA",
+          "text": "Taniec w przestrzeni miejskiej – Festiwal Kalejdoskop 2022 –  Marta Seredyńska"
+        }
+      ]
     }
   ]
 }
