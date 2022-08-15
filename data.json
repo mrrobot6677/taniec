@@ -242,5 +242,8 @@
       "text": "Dofinansowano ze środków Ministra Kultury i Dziedzictwa Narodowego pochodzących z Funduszu Promocji Kultury, uzyskanych z dopłat ustanowionych w grach objętych monopolem państwa, zgodnie z art. 80 ust. 1 ustawy z dnia 19 listopada 2009 r. o grach hazardowych"
     }
   ],
-  "dance_edu_pdf": "/test/pdf/taniec.dodatek.2021.pdf"
+  "dance_education": {
+    "pdf": "/test/pdf/taniec.dodatek.2021.pdf",
+    "number": "1.2021"
+  }
 }
