@@ -230,5 +230,15 @@
         }
       ]
     }
+  ],
+  "patrons": [
+    {
+      "logo": "/test/images/nimit.png",
+      "text": "Narodowy Instytut Muzyki i Tańca objął patronatem honorowym wydania TAŃCA w 2022"
+    },
+    {
+      "logo": "/test/images/mkdin.jpg",
+      "text": "Dofinansowano ze środków Ministra Kultury i Dziedzictwa Narodowego pochodzących z Funduszu Promocji Kultury, uzyskanych z dopłat ustanowionych w grach objętych monopolem państwa, zgodnie z art. 80 ust. 1 ustawy z dnia 19 listopada 2009 r. o grach hazardowych"
+    }
   ]
 }
