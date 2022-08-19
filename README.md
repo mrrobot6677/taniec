@@ -1,5 +1,5 @@
 1. Część informacji na stronie jest pobierana z pliku data.json.
-2. H1 - główne hasło na stronie otwieracjącej
+2. H1 - główne hasło na stronie otwierającej
 3. news - tablica `[]` - docelowo 4 obiektów `{}` odpowiadającym newsom na stronie. Każdy obiekt posiada: `title`, `image`, `text` i `fullText` wyświetlany po kliknięciu w "Więcej".
 4. quarterly number - numer kwartalnika
 5. quarterly_pdf - ścieżka do pliku pdf
