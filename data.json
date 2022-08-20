@@ -69,7 +69,10 @@
       ]
     }
   ],
-  "banner": "/test/images/banner_1.png",
+  "banner": {
+    "desktop": "/test/images/banner_1.png",
+    "mobile": "/test/images/banner_1-mobile.png"
+  },
   "archives": [
     {
       "image": "/test/images/taniec.2017.1-2.okladka.jpg",
