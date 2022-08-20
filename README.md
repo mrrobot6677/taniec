@@ -16,7 +16,6 @@
 3. Wszystkie pdfy muszą znajdować się w folderze `pdf`
 4. Format JSON w którym napisany jest plik jest bardzo wrażliwy na błędy, jeden brakujący przecinek wywala stronę - edycja czy dodawanie nowych obiektów musi być bardzo uważna.
 5. Wszędzie tam, gdzie mamy tablicę `[]` w której są zawarte obiekty `{}`, możemy dodawać nowe obiekty `{}` z tymi samymi właściwościami, czyli jeśli obiekty w danej tablicy mają pola `title` i `image` to możemy dodać obiekt, który musi mieć także pola `title` i `image`.
-6. Wartości licznkiów są widoczne w prawym dolnym rogu strony, po najechaniu na dany pdf. Do odczytywania tylko w wersji na komputer.
 
 ### LICZNIKI
 
@@ -24,4 +23,4 @@ Każdy licznik na stronie jest do podejrzenia pod danym linkiem:
 
 1. Nowy numer kwartalnika: https://api.countapi.xyz/get/taniec-numerkwartalnika np. https://api.countapi.xyz/get/taniec-2.2022
 2. Archiwalne numery: https://api.countapi.xyz/get/taniec-archiwum-numerkwartalnika np. https://api.countapi.xyz/get/taniec-archiwum-2.2018
-3. Edukacja taneczna: https://api.countapi.xyz/get/taniec-edu-numer npm https://api.countapi.xyz/get/taniec-edu-1.2021
+3. Edukacja taneczna: https://api.countapi.xyz/get/taniec-edu-numer np. https://api.countapi.xyz/get/taniec-edu-1.2021
