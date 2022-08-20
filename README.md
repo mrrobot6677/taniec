@@ -16,6 +16,7 @@
 3. Wszystkie pdfy muszą znajdować się w folderze `pdf`
 4. Format JSON w którym napisany jest plik jest bardzo wrażliwy na błędy, jeden brakujący przecinek wywala stronę - edycja czy dodawanie nowych obiektów musi być bardzo uważna.
 5. Wszędzie tam, gdzie mamy tablicę `[]` w której są zawarte obiekty `{}`, możemy dodawać nowe obiekty `{}` z tymi samymi właściwościami, czyli jeśli obiekty w danej tablicy mają pola `title` i `image` to możemy dodać obiekt, który musi mieć także pola `title` i `image`.
+6. Jeśli dodajesz nową grafikę, zdjęcie wrzuć je najpierw w optymalizator https://tinypng.com/ - pozwoli to zmniejszyć wagę zdjęcia. Dopiero tak zoptymalizowane zdjęcie umieszczasz w folderze `images`. Utrzymuj konwencję nazewnictwa zdjęć, w nazwie nie może być spacji, ani wielkich liter.
 
 ### LICZNIKI
 
